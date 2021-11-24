@@ -1,0 +1,1 @@
+molecular_mass = 5800
